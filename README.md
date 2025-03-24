@@ -1,4 +1,4 @@
-# Conclusion (See the PDF in files)
+# Conclusion (See the full paper in files)
 
 In this paper, the wild and alternate type of the SBDS protein was
 extensively discussed, analyzed, and compared and contrasted. The 2L9N
